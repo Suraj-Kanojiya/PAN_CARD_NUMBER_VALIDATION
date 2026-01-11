@@ -28,6 +28,3 @@ All validation criteria, rules, and examples are documented in the **attached PD
 📄 **Refer to the PDF file in this repository for complete validation criteria and explanations.**
 
 ---
-
-## Author
-**Suraj Kanojiya**
